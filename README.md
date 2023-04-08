@@ -1,6 +1,6 @@
 # pdf2txt
 
-A command-line utility to extract text from PDF files using the Poppler library.
+A command-line utility to extract text from PDF files using the Poppler library. It is about twice as fast as [`pdftotext`](https://github.com/jalan/pdftotext).
 
 ## Dependencies
 
