@@ -22,7 +22,7 @@ This will install the executable to `/usr/local/bin` (or the path specified in t
 To extract text from a PDF file, run:
 
 ```bash
-pdf2text [--stdout] <path_to_pdf>
+pdf2txt [--stdout] <path_to_pdf>
 ```
 
 By default, the program will create a text file with the same name as the PDF file in the current directory. If you pass the `--stdout` option, the extracted text will be printed to the standard output instead.
