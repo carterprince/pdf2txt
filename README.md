@@ -1,4 +1,4 @@
-# pdf2text
+# pdf2txt
 
 A command-line utility to extract text from PDF files using the Poppler library.
 
