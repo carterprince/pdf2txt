@@ -5,7 +5,6 @@ A command-line utility to extract text from PDF files using the Poppler library.
 ## Dependencies
 
 - Poppler with glib bindings
-- OpenMP
 
 ## Installation
 
