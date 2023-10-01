@@ -4,7 +4,8 @@ A command-line utility to extract text from PDF files using the Poppler library.
 
 ## Dependencies
 
-- Poppler with glib bindings
+- GCC
+- [Poppler](https://poppler.freedesktop.org/) as well as its glib bindings (`poppler-glib`)
 
 ## Installation
 
