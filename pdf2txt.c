@@ -3,7 +3,6 @@
 #include <string.h>
 #include <limits.h>
 #include <poppler/glib/poppler.h>
-#include <omp.h>
 
 int main(int argc, char *argv[]) {
     if (argc < 2 || argc > 3) {
